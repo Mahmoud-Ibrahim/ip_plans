@@ -1,0 +1,5 @@
+id,network_ip,account_number,name,phone,allocated_subnet_id
+2,192.168.0.22/28,12334,Mohamad,NULL,636
+3,192.168.3.223/32,3413241,Ahmad,NULL,636
+4,192.168.0.25/28,314562,mahmoud,NULL,636
+5,,1123123,Ali,NULL,636
